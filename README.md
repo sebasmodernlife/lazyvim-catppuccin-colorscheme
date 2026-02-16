@@ -1,0 +1,1 @@
+It's simple, move file named colorscheme.lua into ~/.config/nvim/lua/plugins (if doesnt exist you need to install lazyvim and write create plugins folder with "mkdir -p ~/.config/nvim/lua/plugins"), then tip :Lazy sync and :colorscheme into neovim and you can see catppuccin theme available
